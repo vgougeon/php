@@ -1,3 +1,3 @@
-<?php echo "Salut" ?>
+<?php echo "Salut"; ?>
 
 no php
